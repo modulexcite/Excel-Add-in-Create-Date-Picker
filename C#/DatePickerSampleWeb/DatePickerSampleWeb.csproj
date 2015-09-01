@@ -60,7 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\App.css" />
-    <Content Include="Content\Office.css" />
     <Content Include="packages.config" />
     <Content Include="Pages\DatePickerSample.html" />
     <Content Include="Scripts\DatePickerSample.js" />

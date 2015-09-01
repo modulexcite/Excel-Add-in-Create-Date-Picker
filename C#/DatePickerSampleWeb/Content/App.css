@@ -1,22 +1,13 @@
-﻿input[type = 'text']
-{
-    margin-left: 15px;
+﻿.padding {
+    padding: 15px;
 }
 
-#container
-{
-    border: 2px solid red;
-    height: 375px;
-    width: 275px;
-    background-color: antiquewhite;    
-}
-
-button
-{
-    position:relative;
-    top: 250px;
-    left: 170px;
-}
+button 
+{ 
+     position:relative; 
+     top: 250px; 
+     left: 100px; 
+} 
 
 #alternate
 {
